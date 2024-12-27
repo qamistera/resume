@@ -1,2 +1,2 @@
-# resume
-Визитка html b css
+# cv_test
+Сайт-визика на HTML + CSS + JS
